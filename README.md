@@ -33,7 +33,7 @@
 
 - **Favorite Quote:** "The only way to do great work is to love what you do." - Steve Jobs
 - **Hobbies:** Coding 👨🏻‍💻, Anime 🇯🇵, and Reading 📚
-- **夢:**  Yume (Dream in Japanese) is to create software that makes a positive impact on the world.
+- **夢:**  Yume (Dream in Japanese) is to create software that makes a positive impact on the world. 😛
 
 ## 🛠️ Technology Stack
 
@@ -46,14 +46,6 @@
  <img src="https://skillicons.dev/icons?theme=light&i=git,github,vscode,eclipse" />
  <h3>Areas of Interest</h3>
  <img src="https://skillicons.dev/icons?theme=light&i=ai,ml" />
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
- <img style="max-width: 500px; width: auto; height: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=huy2x&theme=vue&exclude_days=Sun%2CSat" alt="huy2x github stats" />
- <br/>
- <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huy2x&layout=compact" alt="top langs" />
 </div>
 
 ## 📝 My Projects
