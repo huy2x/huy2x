@@ -44,8 +44,6 @@
  <img src="https://skillicons.dev/icons?theme=light&i=java,spring" />
  <h3>Tools and Frameworks</h3>
  <img src="https://skillicons.dev/icons?theme=light&i=git,github,vscode,eclipse" />
- <h3>Areas of Interest</h3>
- <img src="https://skillicons.dev/icons?theme=light&i=ai,ml" />
 </div>
 
 ## 📝 My Projects
